@@ -8,7 +8,7 @@ thing would have... well... at least _one_ more method.
 A few BTC donations would likely get this flushed out a bit more, as well
 (https://twitter.com/jkassemi/statuses/397205845898833920).
 
-1CYH3DnSSBTwQRX8A5ZqcLvRmHx5efqJjZ
+1N2ALH42LDpqoPvMEpkQNNYgYbFzdd9T3w
 
 ## Installation
 
