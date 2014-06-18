@@ -1,5 +1,7 @@
 # Campaign Monitor for Go
 
+*NO LONGER ACTIVELY MAINTAINED* - this project should be considered Archived. If you are interested in maintaining an official fork, please contact me directly.
+
 A go interface to the Campaign Monitor API. This provides a very minimal set of
 features at this point in time - but if everyone who wanted to use Campaign
 Monitor with their Go application added just _one_ method of their own, this
